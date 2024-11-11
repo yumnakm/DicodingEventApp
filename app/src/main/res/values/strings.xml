@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DicodingEventApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_name">Judul Acara</string>
+    <string name="description">Deskripsi</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="begin_time">Begin Time</string>
+    <string name="quota">Quota: %2$d</string>
+    <string name="register">Register</string>
+    <string name="searchbar_hint">DevCoach</string>
+    <string name="todo">TODO</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
